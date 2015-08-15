@@ -1,0 +1,42 @@
+<div class="container  marketing">
+    <div class="featurette">
+        <div class="container-fluid">
+            <hr size="5" style="color: gray; background-color: gray;">
+
+            <a href="http://www.iucosoft.com" style="text-align:center;">iucosoft.com</a> 2015
+        </div>
+    </div>
+</div>
+<!-- /END THE FEATURETTES -->
+
+<!-- Le javascript
+   ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="bootstrap/js/jquery.js"></script>
+<script src="bootstrap/js/bootstrap-transition.js"></script>
+<script src="bootstrap/js/bootstrap-alert.js"></script>
+<script src="bootstrap/js/bootstrap-modal.js"></script>
+<script src="bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="bootstrap/js/bootstrap-tab.js"></script>
+<script src="bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="bootstrap/js/bootstrap-popover.js"></script>
+<script src="bootstrap/js/bootstrap-button.js"></script>
+<script src="bootstrap/js/bootstrap-collapse.js"></script>
+
+<script src="carousel/bootstrap-carousel.js"></script>
+<script src="bootstrap/js/bootstrap-typeahead.js"></script>
+<script>
+    !function ($) {
+        $(function () {
+            // carousel demo
+            $('#myCarousel').carousel()
+        })
+    }(window.jQuery)
+</script>
+<script src="bootstrap/js/holder.js"></script>
+
+
+
+
